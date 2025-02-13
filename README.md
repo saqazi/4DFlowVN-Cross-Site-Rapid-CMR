@@ -19,5 +19,4 @@ The code and trained network will be made available upon publication. Stay tuned
   
 📩 **Contact**  
 For any inquiries or updates regarding this repository, feel free to reach out to:  
-- [Your Email]  
-- [Your Institution/Hospital/Research Lab Name]
+- sohaibqazimm@gmail.com
